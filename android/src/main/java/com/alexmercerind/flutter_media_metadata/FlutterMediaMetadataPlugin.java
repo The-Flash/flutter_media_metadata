@@ -1,5 +1,6 @@
 package com.alexmercerind.flutter_media_metadata;
 
+import java.io.IOException;
 import java.util.HashMap;
 import java.lang.Runnable;
 import java9.util.concurrent.CompletableFuture;
